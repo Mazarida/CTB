@@ -1,0 +1,11 @@
+.bn-pagination__item a {
+    color: #fff;
+}
+.bn-pagination__arrow a,
+.bn-pagination__triplet a {
+    color: #27F3B5;
+}
+.bn-pagination__arrow a:hover,
+.bn-pagination__triplet a:hover {
+    color: #fff;
+}

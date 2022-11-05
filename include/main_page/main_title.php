@@ -1,0 +1,1 @@
+<span class="text--green text-animate">Bankro.TECH</span> — Единая система по ведению процедур <span id="scene" data-scalar-x="30" data-scalar-y="60" class="bn-text-elipse bn-text-elipse--medium">банкротства<img data-depth="0.4" src="/local/templates/bankro.tech/static/images/text-elipse--medium.svg" alt="elipse"></span>

@@ -1,0 +1,4 @@
+/var/www/html/bitrix/modules/main/include_old.php	[661] array member as a function
+/var/www/html/bitrix/modules/socialservices/lang/en/classes/general/google.php	[662] function return as a function
+/var/www/html/bitrix/modules/twim.recaptchafree/install/index.php	[700] file from variable
+/var/www/html/upload/tmp/BXTEMP-2022-06-27/18/bxu/main/.access.php	[110] php file in upload dir

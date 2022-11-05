@@ -1,0 +1,1 @@
+<a href="tel:+74995503009" class="bn-header__phone bn-underline"><img src="/local/templates/bankro.tech/static/images/phone-call--circle.svg" alt="phone icon"> +7 (499) 550-30-09</a>

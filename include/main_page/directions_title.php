@@ -1,0 +1,1 @@
+<span class="text--green">Выберите своё направление</span> и мы подберём <span class="bn-text-elipse bn-text-elipse--medium">необходимые<img src="/local/templates/bankro.tech/static/images/text-elipse--medium.svg" alt="elipse"></span> продукты:

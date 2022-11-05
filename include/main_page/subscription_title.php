@@ -1,0 +1,2 @@
+<span class="text--green">Подписывайтесь</span><br>
+ на <span class="bn-text-elipse bn-text-elipse--large">дела о банкротстве <img alt="elipse" src="/local/templates/bankro.tech/static/images/text-elipse--large.svg"></span>

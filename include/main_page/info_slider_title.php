@@ -1,0 +1,1 @@
+Вся информация</span> по банкротному делу <span class="bn-text-elipse bn-text-elipse--large">в единой системе<img src="/local/templates/bankro.tech/static/images/text-elipse--large.svg" alt="elipse"></span>

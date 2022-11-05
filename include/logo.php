@@ -1,0 +1,1 @@
+<img src="/local/templates/bankro.tech/static/images/logo.svg" alt="logo">

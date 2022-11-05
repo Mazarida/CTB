@@ -1,0 +1,60 @@
+<?
+$aMenuLinks = Array(
+	Array(
+		"О нас", 
+		"/about/", 
+		Array(), 
+		Array(), 
+		"" 
+	),
+	Array(
+		"База знаний", 
+		"/knowledge-base/", 
+		Array(), 
+		Array(), 
+		"" 
+	),
+	Array(
+		"Новости", 
+		"/news/", 
+		Array(), 
+		Array(), 
+		"" 
+	),
+	Array(
+		"Библиотека", 
+		"/library/", 
+		Array(), 
+		Array(), 
+		"" 
+	),
+	Array(
+		"План развития", 
+		"/development-plan/", 
+		Array(), 
+		Array(), 
+		"" 
+	),
+	Array(
+		"Система подписки", 
+		"/subscription/", 
+		Array(), 
+		Array(), 
+		"" 
+	),
+	Array(
+		"FAQ", 
+		"/faq/", 
+		Array(), 
+		Array(), 
+		"" 
+	),
+	Array(
+		"Контакты", 
+		"/contacts/", 
+		Array(), 
+		Array(), 
+		"" 
+	)
+);
+?>
